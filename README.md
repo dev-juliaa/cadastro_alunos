@@ -6,11 +6,11 @@ Projeto em Squad, da faculdade UNESA- Estácio De Sá, utilizando banco de dados
 A propósta do projeto é realizar uma consulta ao banco de dados disponibilizado, e criar um cadastro de alunos, utilizando metodos crud como Create, para a criação do usuario, Read, para ler as informações, Update, para atualizar o cadastro e Delete para deletar dados.
 
 <h2><strong> Ferramentas utilizadas. </strong></h2>
-Postgree
-Canva
-Python
-Pycharm
-Terminal
+Postgree,
+Canva,
+Python,
+Pycharm,
+Terminal,
 Zoom. 
 
 <h2><strong> Etapas para a realização do projeto. </strong></h2>
