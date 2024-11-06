@@ -28,6 +28,8 @@ Criação da interface gráfica.
 
 <h2><strong> Banco de dados </strong></h2>
 
+<img src="/imagens_readme/CONEXAO.png" alt="Logo da Minha Empresa">
+<img src="/imagens_readme/FUNCAO-TABELA.png" alt="Logo da Minha Empresa">
 
 <h2><strong>3. Terminal </strong></h2>
 
