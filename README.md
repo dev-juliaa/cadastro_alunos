@@ -37,7 +37,9 @@ Criação da interface gráfica.
 <img src="/imagens_readme/banco-funcionando.png" alt="terminal"> 
 
 <h2><strong>7. Nossa equipe </strong></h2>
-<h4>Júlia Araujo, Guilherme Carvalho e Robert Almeida</h4>
+
+<img src="/imagens_readme/grupo.png" alt="foto_grupo"> 
+
 <div align="center"> 
 
   </div> 
