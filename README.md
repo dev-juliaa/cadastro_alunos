@@ -23,18 +23,18 @@ Criação da interface gráfica.
 
 <h2><strong> Interface Gráfica </strong></h2>
 
-<img src="/imagens_readme/TKINTER.png" alt="Logo da Minha Empresa">
+<img src="/imagens_readme/TKINTER.png" alt="interface">
 
 
 <h2><strong> Banco de dados </strong></h2>
 
-<img src="/imagens_readme/CONEXAO.png" alt="Logo da Minha Empresa"> <br>
-<img src="/imagens_readme/FUNCAO-TABELA.png" alt="Logo da Minha Empresa"> <br>
-<img src="/imagens_readme/postgree.png" alt="Logo da Minha Empresa"> 
+  <img src="/imagens_readme/CONEXAO.png" alt="conexao-banco" style="display: inline-block; margin: 10px;">
+  <img src="/imagens_readme/FUNCAO-TABELA.png" alt="tabela-db" style="display: inline-block; margin: 10px;">
+  <img src="/imagens_readme/postgree.png" alt="postgree" style="display: inline-block; margin: 10px;">
 
 <h2><strong>3. Terminal </strong></h2>
 
-<img src="/imagens_readme/banco-funcionando.png" alt="Logo da Minha Empresa"> 
+<img src="/imagens_readme/banco-funcionando.png" alt="terminal"> 
 
 <h2><strong>7. Nossa equipe </strong></h2>
 <h4>Júlia Araujo, Guilherme Carvalho e Robert Almeida</h4>
